@@ -1,0 +1,6 @@
+,hnr,hnr,hnr,jitter_local,jitter_local,jitter_local,shimmer_local,shimmer_local,shimmer_local,f0_mean,f0_mean,f0_mean
+,mean,std,count,mean,std,count,mean,std,count,mean,std,count
+group,,,,,,,,,,,,
+elderlyHC,12.7695,2.1399,85,0.0229,0.006,85,0.1217,0.0271,85,164.3863,24.0928,85
+parkinsonPD,17.2254,2.0317,106,0.0204,0.004,106,0.0909,0.0166,106,151.0037,28.7359,106
+youngHC,9.6267,1.8356,45,0.0281,0.005,45,0.1288,0.0341,45,150.3744,39.6125,45

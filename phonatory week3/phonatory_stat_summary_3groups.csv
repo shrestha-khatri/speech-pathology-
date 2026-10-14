@@ -1,0 +1,5 @@
+Feature,YoungHC,ElderlyHC,ParkinsonPD,ANOVA p,Sig Pairs
+HNR,9.63±1.84,12.77±2.14,17.23±2.03,0.0000,See Tukey above
+JITTER_LOCAL,0.03±0.01,0.02±0.01,0.02±0.00,0.0000,See Tukey above
+SHIMMER_LOCAL,0.13±0.03,0.12±0.03,0.09±0.02,0.0000,See Tukey above
+F0_MEAN,150.37±39.61,164.39±24.09,151.00±28.74,0.0042,See Tukey above

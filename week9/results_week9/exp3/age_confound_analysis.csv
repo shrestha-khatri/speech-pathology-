@@ -1,0 +1,57 @@
+Task,Feature,Category,p_PD_vs_elderlyHC,p_PD_vs_youngHC,p_elderlyHC_vs_youngHC,d_PD_vs_elderlyHC,d_elderlyHC_vs_youngHC,Pattern
+B1,HNR,Phonatory,0.0,0.0,0.0001,2.318,1.435,B: ageing + disease
+B1,JITTER_LOCAL,Phonatory,0.0846,0.0,0.0014,0.567,0.97,C: ageing only
+B1,JITTER_RAP,Phonatory,0.0003,0.0,0.0034,0.793,0.721,B: ageing + disease
+B1,JITTER_PPQ5,Phonatory,0.0,0.0,0.0036,1.168,0.715,B: ageing + disease
+B1,SHIMMER_LOCAL,Phonatory,0.0,0.0,0.7927,1.408,0.102,A: disease-specific
+B1,SHIMMER_APQ5,Phonatory,0.0,0.0,0.8776,1.563,0.06,A: disease-specific
+B1,RPDE,Phonatory,0.1551,0.0211,0.177,0.388,0.561,D: no effect
+B1,DFA,Phonatory,0.9382,0.0019,0.0048,0.021,0.931,C: ageing only
+B1,HURST,Phonatory,0.7092,0.0,0.001,0.337,0.215,C: ageing only
+B1,LLE,Phonatory,0.0654,0.2657,0.8349,0.484,0.423,D: no effect
+B1,APEN,Phonatory,0.1551,0.0211,0.177,0.39,0.57,D: no effect
+B1,SAMPEN,Phonatory,0.0485,0.4,0.6303,1.61,0.685,A: disease-specific
+B1,PPE,Phonatory,0.1551,0.0211,0.177,0.39,0.57,D: no effect
+B1,F0_MEAN,Prosodic,0.0146,0.4364,0.0397,0.555,0.336,B: ageing + disease
+B1,F0_STD,Prosodic,0.0066,0.0657,0.7511,0.646,0.475,A: disease-specific
+B1,DF0,Prosodic,0.4898,0.1647,0.4412,0.25,0.608,D: no effect
+B1,DDF0,Prosodic,0.5229,0.1647,0.452,0.221,0.621,D: no effect
+B1,CVF0,Prosodic,0.1551,0.0211,0.177,0.39,0.57,D: no effect
+B1,FTRI,Prosodic,0.9676,0.0557,0.0937,0.092,0.675,D: no effect
+B2,HNR,Phonatory,0.0,0.0,0.0001,2.19,1.738,B: ageing + disease
+B2,JITTER_LOCAL,Phonatory,0.0374,0.0,0.0135,0.816,0.878,B: ageing + disease
+B2,JITTER_RAP,Phonatory,0.0092,0.0002,0.0342,0.957,0.549,B: ageing + disease
+B2,JITTER_PPQ5,Phonatory,0.0,0.0,0.0503,1.484,0.572,A: disease-specific
+B2,SHIMMER_LOCAL,Phonatory,0.0,0.0003,0.7483,1.474,0.149,A: disease-specific
+B2,SHIMMER_APQ5,Phonatory,0.0,0.0,0.5854,1.762,0.145,A: disease-specific
+B2,RPDE,Phonatory,0.0028,0.0668,0.9233,0.943,0.303,A: disease-specific
+B2,DFA,Phonatory,0.6905,0.6339,0.8725,0.205,0.197,D: no effect
+B2,HURST,Phonatory,0.6409,0.0064,0.0085,0.003,0.0,C: ageing only
+B2,LLE,Phonatory,0.005,0.4617,0.7727,0.855,0.365,A: disease-specific
+B2,APEN,Phonatory,0.0028,0.0668,0.9233,0.897,0.345,A: disease-specific
+B2,PPE,Phonatory,0.0028,0.0668,0.9233,0.897,0.345,A: disease-specific
+B2,F0_MEAN,Prosodic,0.0374,0.7839,0.1017,0.702,0.317,A: disease-specific
+B2,F0_STD,Prosodic,0.0001,0.0913,0.8473,1.262,0.306,A: disease-specific
+B2,DF0,Prosodic,0.0174,0.2423,0.7483,0.718,0.486,A: disease-specific
+B2,DDF0,Prosodic,0.0395,0.279,0.7974,0.651,0.512,A: disease-specific
+B2,CVF0,Prosodic,0.0028,0.0668,0.9233,0.897,0.345,A: disease-specific
+B2,FTRI,Prosodic,0.2698,0.1989,0.7727,0.448,0.55,D: no effect
+PR1,HNR,Phonatory,0.0,0.0,0.0001,1.908,1.757,B: ageing + disease
+PR1,JITTER_LOCAL,Phonatory,0.8681,0.0002,0.0014,0.174,1.307,C: ageing only
+PR1,JITTER_RAP,Phonatory,0.1299,0.0002,0.0021,0.425,1.094,C: ageing only
+PR1,JITTER_PPQ5,Phonatory,0.0392,0.0,0.0035,0.748,1.066,B: ageing + disease
+PR1,SHIMMER_LOCAL,Phonatory,0.0,0.0,0.2337,1.337,0.548,A: disease-specific
+PR1,SHIMMER_APQ5,Phonatory,0.0,0.0,0.3949,1.783,0.437,A: disease-specific
+PR1,RPDE,Phonatory,0.5381,0.6014,0.9138,0.312,0.518,D: no effect
+PR1,DFA,Phonatory,0.0007,0.0021,0.722,1.13,0.231,A: disease-specific
+PR1,HURST,Phonatory,0.2611,0.0211,0.0056,0.301,0.876,C: ageing only
+PR1,LLE,Phonatory,0.1937,0.5838,0.8649,0.487,0.638,D: no effect
+PR1,APEN,Phonatory,0.5381,0.6014,0.9138,0.326,0.569,D: no effect
+PR1,SAMPEN,Phonatory,0.6667,0.8,0.1333,1.556,1.917,D: no effect
+PR1,PPE,Phonatory,0.5381,0.6014,0.9138,0.326,0.569,D: no effect
+PR1,F0_MEAN,Prosodic,0.2219,0.3793,0.7689,0.351,0.286,D: no effect
+PR1,F0_STD,Prosodic,0.3142,0.6373,0.9138,0.405,0.734,D: no effect
+PR1,DF0,Prosodic,0.2868,0.3657,0.8165,0.361,0.702,D: no effect
+PR1,DDF0,Prosodic,0.4401,0.3393,0.8406,0.314,0.716,D: no effect
+PR1,CVF0,Prosodic,0.5381,0.6014,0.9138,0.326,0.569,D: no effect
+PR1,FTRI,Prosodic,0.4518,0.2903,0.6762,0.287,0.502,D: no effect

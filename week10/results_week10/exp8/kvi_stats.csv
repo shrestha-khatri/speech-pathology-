@@ -1,0 +1,4 @@
+Contrast,Cohens_d,MW_p,Sig
+PD_vs_youngHC,1.419,0.0003,***
+PD_vs_elderlyHC,0.535,0.0601,ns
+elderlyHC_vs_youngHC,1.123,0.009,**

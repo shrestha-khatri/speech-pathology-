@@ -1,0 +1,4 @@
+label,rf_auc,rf_std,lr_auc,lr_std
+Praat-only,0.889,0.061,0.892,0.053
+eGeMAPS-only,0.996,0.007,0.979,0.02
+Combined,0.996,0.008,0.981,0.024
